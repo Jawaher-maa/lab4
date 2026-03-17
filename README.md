@@ -1,6 +1,7 @@
 # lab4
 This dataset presents a high-granularity structured reconstruction of BMW Group global deliveries, premium segment share, EV penetration, and macroeconomic indicators from 2018–2025.
-Designed for time-series forecasting, EV adoption modeling, and premium automotive market research.dataset columns:
+Designed for time-series forecasting, EV adoption modeling, and premium automotive market research.
+about the dataset columns:
 
 Year: Calender year of vehicle sales between 2018 and 2025.
 Month: Month of Sale (1-12).
